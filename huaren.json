@@ -5,7 +5,7 @@
       {
       "key": "lvdou2",
       "name": "全球华人(大陆禁用)",
-      "jar": "https://gitee.com/DouZhuanXingYi/tv/raw/master/lvdou.jar",
+      "jar": "https://raw.githubusercontent.com/huarentv520/tv520/main/lvdou.jar",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
